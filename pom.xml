@@ -12,7 +12,7 @@
     <artifactId>spring-etcd</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-etcd</name>
-    <description>spring-etcd</description>
+    <description>spring cloud config use etcd</description>
     <url/>
 
     <properties>
